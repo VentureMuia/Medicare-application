@@ -1,0 +1,13 @@
+name: medicare-map
+title: medicare-map
+username:
+account: venturemuia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4973688
+bundleId: 5181450
+url: https://venturemuia.shinyapps.io/medicare-map/
+when: 1635314084.28053
+lastSyncTime: 1635314084.28053
+asMultiple: FALSE
+asStatic: FALSE
